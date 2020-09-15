@@ -1,0 +1,88 @@
+body{
+	background-color: rgb(255,255,255);
+	
+	
+}
+
+ul {
+text-align: center;
+}
+
+
+.regHeading{
+	color: rgb(255,255,255);
+	background-color: rgb(235,55,55);
+}
+
+.regHeading2{
+	color: rgb(255,255,255);
+	background-color: rgb(214, 165, 179);
+}
+
+#bigtitle{
+						background: rgb(235,55,55);
+						width: 500px;
+						height: 175px;
+						color: rgb(255,255,255);
+						text-align: center;
+						float: center;
+						margin: auto;
+						padding:10px;
+						
+					}
+					
+					.uno{
+						font-size:30px;
+					}
+					.dos{
+						font-size:35px;
+					}
+					.tres{
+						font-size:80px;
+					}
+					
+					body{
+						font-family:sans-serif;
+					}
+					
+					
+					ul{
+						margin:auto;
+						float:center;
+						list-style-position: inside;
+					}
+					
+					.table1{
+						border:6px solid rgb(0,0,0);
+					}
+					
+					.sidebar{
+						width: 7%;
+						border:6px solid rgb(0,0,0);
+						border-radius: 20px;
+						position: fixed;
+						float: right;
+						bottom: 300px;
+						padding-right: 10px;
+						background: rgb(255,255,255);
+						box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);	
+					}
+					
+					body{
+						background: rgb(193, 224, 224);
+					}
+					
+					.created{
+						padding: 5px;
+						font-size: 0.6em;
+						position: fixed;
+						float: right;
+						bottom: 10px;
+						right:0;
+						
+						background: rgb(255,255,255);
+						
+					}
+					
+				
+
